@@ -35,7 +35,7 @@ I enjoy building modern, user-friendly applications and continuously improving m
 ---
 
 ## 🚀 Interests
-- Frontend Web Design  
+- Full Stack Web Developer  
 - Android App Development  
 - Artificial Intelligence  
 - User Interface & User Experience Design  
