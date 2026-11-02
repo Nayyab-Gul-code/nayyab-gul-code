@@ -1,6 +1,6 @@
 # 👩‍💻 Nayyab Gul
 
-Hi! I'm **Nayyab Gul**, a BS Computer Science student currently in my **6th semester**.  
+Hi! I'm **Nayyab Gul**, a BS Computer Science student currently in my **7th semester**.  
 I am passionate about **Web Design & Development**, **Android Development**, and the **AI field**.
 
 I enjoy building modern, user-friendly applications and continuously improving my technical skills.
@@ -10,7 +10,7 @@ I enjoy building modern, user-friendly applications and continuously improving m
 ## 🎓 Education
 
 - 🎓 BS Computer Science  
-- 📍 Currently in 6th Semester  
+- 📍 Currently in 7th Semester  
 
 ---
 
